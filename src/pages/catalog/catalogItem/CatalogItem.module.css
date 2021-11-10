@@ -1,0 +1,40 @@
+.item {
+  border: 1px solid #4caf50;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #e2f3e4;
+}
+.item img{
+  height: 100px;
+}
+.title {
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin: 0 0 15px;
+  color: #795548;
+}
+.button {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 14px 0;
+  border: none;
+  background: #2196f3;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 30px;
+  transition: background-color 0.4s;
+}
+.button:hover{
+  background-color: #176eb3;
+}
+.prise {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 15px;
+}
+.cart_total_buttons{
+  display: flex;
+}

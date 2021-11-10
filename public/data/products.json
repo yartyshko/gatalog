@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "product1", "price": 10, "imageUrl": "https://pngimg.com/uploads/fan/small/fan_PNG103384.png" },
+  { "id": 2, "name": "product2", "price": 20, "imageUrl": "https://pngimg.com/uploads/fan/small/fan_PNG103382.png"},
+  { "id": 3, "name": "product3", "price": 30, "imageUrl": "https://pngimg.com/uploads/fan/small/fan_PNG103379.png" },
+  { "id": 4, "name": "product4", "price": 40, "imageUrl": "https://pngimg.com/uploads/fan/small/fan_PNG14483.png" }
+]

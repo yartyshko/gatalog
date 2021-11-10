@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
